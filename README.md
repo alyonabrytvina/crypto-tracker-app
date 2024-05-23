@@ -1,6 +1,6 @@
 ## Crypto Tracker App
 
-To see a quick demo please follow the [LINK](crypto-tracker-app-lesha.surge.sh)
+To see a quick demo please follow the [LINK](https://crypto-tracker-app-lesha.surge.sh/)
 
 ### Tech stack
 
